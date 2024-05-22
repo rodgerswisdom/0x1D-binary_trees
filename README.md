@@ -1,5 +1,3 @@
-# 0x1D C - Binary trees :pencil2:
-
-
+# 0x1D. C - Binary trees
 
 
